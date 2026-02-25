@@ -61,6 +61,8 @@ The dashboard explores churn patterns across contract type, tenure, payment meth
 ## Author
 
 **Esther Oziowuh Emmanuel**
+
+
 Junior Data Analyst | Excel • Data Analytics • Power BI • Data Storytelling
 
 ---
