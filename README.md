@@ -1,16 +1,31 @@
 # Telecom Customer Churn Analysis Dashboard (Power BI)
 
+## Why This Project Matters
+
+Customer churn is a major challenge in the telecom industry. Losing customers directly reduces revenue and increases the cost of acquiring new ones. Understanding why customers leave and identifying high-risk segments helps telecom companies design effective retention strategies, improve customer satisfaction, and increase lifetime value.
+
+---
+
+## Business Problem
+
+The telecom company is experiencing customer loss but lacks clear visibility into the factors driving churn.
+Key questions include:
+
+* Which customers are most likely to churn?
+* What services or behaviors increase churn risk?
+* Does contract type or payment method affect retention?
+* When in the customer lifecycle does churn occur most?
+
+The goal is to analyze customer data to uncover churn patterns and provide actionable insights to support retention decisions.
+
+---
+
 ## Project Overview
 
-This project analyzes customer churn behavior in a telecom company using Power BI.
-The dashboard explores churn patterns across contract type, tenure, payment method, pricing, and technical support adoption to identify key retention drivers.
+This project analyzes telecom customer churn behavior using Power BI.
+The dashboard explores churn patterns across contract type, tenure, payment method, pricing, and technical support adoption to identify key retention drivers and high-risk customer segments.
 
-## Objectives
-
-* Measure overall churn rate
-* Identify high-risk customer segments
-* Understand factors influencing churn
-* Provide retention recommendations
+---
 
 ## Key Insights
 
@@ -20,13 +35,17 @@ The dashboard explores churn patterns across contract type, tenure, payment meth
 * Electronic check payment users show higher churn
 * Long-term contracts reduce churn
 
-## Recommendations
+---
+
+## Business Recommendations
 
 * Encourage migration to long-term contracts
 * Offer bundled or discounted tech support
 * Improve onboarding for new customers
 * Promote automatic payment methods
 * Provide loyalty incentives for long-term plans
+
+---
 
 ## Tools & Skills
 
@@ -37,11 +56,11 @@ The dashboard explores churn patterns across contract type, tenure, payment meth
 * Data Visualization
 * DAX
 
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
+---
 
 ## Author
 
-**Esther Ohuenene Emmanuel**
-Data Analyst Enthusiast
+**Esther Oziowuh Emmanuel**
+Junior Data Analyst | Excel • Data Analytics • Power BI • Data Storytelling
+
+---
